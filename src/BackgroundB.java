@@ -18,10 +18,10 @@ public class BackgroundB {
         if (choose.equals("L")) {
             BackgroundCObject.backgroundC1();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             BackgroundCObject.backgroundC2();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundCObject.backgroundC3();
         }
         else {
@@ -43,10 +43,10 @@ public class BackgroundB {
         if (choose.equals("L")) {
             BackgroundCObject.backgroundC3();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             BackgroundCObject.backgroundC4();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundCObject.backgroundC5();
         }
         else {
@@ -67,10 +67,10 @@ public class BackgroundB {
         if (choose.equals("L")) {
             BackgroundCObject.backgroundC5();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             System.out.println("You fall off a cliff. You fain!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundCObject.backgroundC6();
         }
         else {

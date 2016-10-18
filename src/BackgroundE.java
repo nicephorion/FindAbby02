@@ -19,10 +19,10 @@ public class BackgroundE {
         if (choose.equals("L")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundFObject.backgroundF1();
         }
         else {
@@ -44,10 +44,10 @@ public class BackgroundE {
         if (choose.equals("L")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             BackgroundFObject.backgroundF1();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             System.out.println("You fall off a cliff. You fail!");
         }
         else {
@@ -69,10 +69,10 @@ public class BackgroundE {
         if (choose.equals("L")) {
             BackgroundFObject.backgroundF1();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             System.out.println("You fall off a cliff. You fail!");
         }
         else {
@@ -94,10 +94,10 @@ public class BackgroundE {
         if (choose.equals("L")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundFObject.backgroundF2();
         }
         else {
@@ -119,10 +119,10 @@ public class BackgroundE {
         if (choose.equals("L")) {
             BackgroundFObject.backgroundF2();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             System.out.println("You fall off a cliff. You fail!");
         }
         else {
@@ -143,10 +143,10 @@ public class BackgroundE {
         if (choose.equals("L")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundFObject.backgroundF3();
         }
         else {
@@ -167,10 +167,10 @@ public class BackgroundE {
         if (choose.equals("L")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             BackgroundFObject.backgroundF3();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             System.out.println("You fall off a cliff. You fail!");
         }
         else {
@@ -191,10 +191,10 @@ public class BackgroundE {
         if (choose.equals("L")) {
             BackgroundFObject.backgroundF3();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             System.out.println("You fall off a cliff. You fail!");
         }
         else {

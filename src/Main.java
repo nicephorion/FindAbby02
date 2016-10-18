@@ -25,10 +25,10 @@ public class Main {
         if (choose.equals("L")) {
             BackgroundBObject.backgroundB1();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             BackgroundBObject.backgroundB2();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundBObject.backgroundB3();
         } else {
             System.out.println("Check yo grammar, mate! You fail!");

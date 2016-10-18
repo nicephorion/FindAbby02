@@ -18,7 +18,7 @@ public class BackgroundF {
         if (choose.equals("L")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             MainObject.theEnd();
         }
         else {
@@ -39,7 +39,7 @@ public class BackgroundF {
         if (choose.equals("L")) {
             MainObject.theEnd();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             System.out.println("You fall off a cliff. You fail!");
         }
         else {
@@ -60,7 +60,7 @@ public class BackgroundF {
         if (choose.equals("L")) {
             MainObject.theEnd();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             System.out.println("You fall off a cliff. You fail!");
         }
         else {

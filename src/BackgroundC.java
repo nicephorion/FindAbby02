@@ -18,10 +18,10 @@ public class BackgroundC {
         if (choose.equals("L")) {
             BackgroundDObject.backgroundD1();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             BackgroundDObject.backgroundD2();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             System.out.println("You fall off a cliff. You fail!");
         }
         else {
@@ -42,10 +42,10 @@ public class BackgroundC {
         if (choose.equals("L")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             BackgroundDObject.backgroundD3();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
              BackgroundDObject.backgroundD4();
         }
         else {
@@ -66,10 +66,10 @@ public class BackgroundC {
         if (choose.equals("L")) {
             BackgroundDObject.backgroundD4();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundDObject.backgroundD5();
         }
         else {
@@ -90,10 +90,10 @@ public class BackgroundC {
         if (choose.equals("L")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             BackgroundDObject.backgroundD5();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundDObject.backgroundD6();
         }
         else {
@@ -114,10 +114,10 @@ public class BackgroundC {
         if (choose.equals("L")) {
             BackgroundDObject.backgroundD6();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             System.out.println("You fall off a cliff. You fail!");
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             BackgroundDObject.backgroundD7();
         }
         else {
@@ -138,10 +138,10 @@ public class BackgroundC {
         if (choose.equals("L")) {
             BackgroundDObject.backgroundD7();
         }
-        if (choose.equals("S")) {
+        else if (choose.equals("S")) {
             BackgroundDObject.backgroundD8();
         }
-        if (choose.equals("R")) {
+        else if (choose.equals("R")) {
             System.out.println("You fall off a cliff. You fail!");
         }
         else {
