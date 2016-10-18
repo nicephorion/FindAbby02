@@ -35,22 +35,6 @@ public class Main {
         }
     }
 
-        /*
-              switch (choose) {
-            case "1":
-                BackgroundBObject.backgroundB1();
-                break;
-            case "2":
-                BackgroundBObject.backgroundB2();
-                break;
-            case "3":
-                BackgroundBObject.backgroundB3();
-                break;
-            default:
-                System.out.println("Check yo grammar, mate! You fail!");
-        }
-         */
-
     public void theEnd() {
         System.out.println("You found your sister! You are a great sibling!");
         System.out.println("----------");
